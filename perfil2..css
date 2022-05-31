@@ -29,3 +29,12 @@ body {
     text-align: center;
 
 }
+
+form {
+    display:grid; 
+
+}
+.segundo
+{
+    text-align: right;
+}
