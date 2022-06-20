@@ -9,7 +9,9 @@ body {
     background:rgb(205, 222, 255);
 }
 
-
+header{
+    text-align: center;
+}
 
 .foto {
     border: 20px ridge white;
@@ -31,7 +33,9 @@ body {
 }
 
 form {
-    display:grid; 
+    display:flex;
+    align-items: stretch;
+    flex-direction:column; 
 
 }
 .segundo
